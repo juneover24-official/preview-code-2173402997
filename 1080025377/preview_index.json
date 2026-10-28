@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1080025377",
-  "updated_at": "2026-10-28T14:00:55+00:00",
+  "updated_at": "2026-10-28T14:09:42+00:00",
   "skins": [
     {
       "name": "灰键讯号1",
@@ -65,6 +65,13 @@
       "thumb": "一字萌2.bds_py_26_light_thumb.png",
       "full": "一字萌2.bds_py_26_light_thumb.png",
       "file_id": "918a490fa13e44463751e426f9091b75"
+    },
+    {
+      "name": "一字萌1",
+      "file": "一字萌1-无背景.bdi",
+      "thumb": "一字萌1-无背景.bdi_py_26_light_thumb.png",
+      "full": "一字萌1-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "2ba1a7ce0ccca8196d172b5300bafd16"
     }
   ]
 }
