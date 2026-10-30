@@ -1,13 +1,20 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
+  "updated_at": "2026-10-30T15:09:46+00:00",
   "skins": [
     {
       "name": "离线天使2",
       "file": "离线天使2.bdi",
       "thumb": "离线天使2.bdi_py_26_light_thumb.png",
       "full": "离线天使2.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "离线天使1",
+      "file": "离线天使1.bdi",
+      "thumb": "离线天使1.bdi_py_26_light_thumb.png",
+      "full": "离线天使1.bdi_py_26_light_thumb.png",
+      "file_id": "f6538bc3cc558ff6b8c5e51b237819c2"
     }
-  ],
-  "updated_at": "2026-10-30T15:09:27+00:00"
+  ]
 }
