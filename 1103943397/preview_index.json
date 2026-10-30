@@ -1,6 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1103943397",
+  "updated_at": "2026-10-30T06:23:17+00:00",
   "skins": [
     {
       "name": "R4chel 1",
@@ -8,7 +9,13 @@
       "thumb": "R4chel1.bdi_py_26_light_thumb.png",
       "full": "R4chel1.bdi_py_26_light_thumb.png",
       "file_id": "7510f936a6feda1339b1c1ae098aef2f"
+    },
+    {
+      "name": "R4chel 2",
+      "file": "R4chel2.bdi",
+      "thumb": "R4chel2.bdi_py_26_light_thumb.png",
+      "full": "R4chel2.bdi_py_26_light_thumb.png",
+      "file_id": "28df4809636c19f3c16db6e9a895bb92"
     }
-  ],
-  "updated_at": "2026-10-30T06:23:02+00:00"
+  ]
 }
