@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1103943397",
-  "updated_at": "2026-10-30T06:23:17+00:00",
+  "updated_at": "2026-10-30T14:44:43+00:00",
   "skins": [
     {
       "name": "R4chel 1",
@@ -16,6 +16,12 @@
       "thumb": "R4chel2.bdi_py_26_light_thumb.png",
       "full": "R4chel2.bdi_py_26_light_thumb.png",
       "file_id": "28df4809636c19f3c16db6e9a895bb92"
+    },
+    {
+      "name": "少女厨1",
+      "file": "少女厨1-无背景.bdi",
+      "thumb": "少女厨1-无背景.bdi_py_26_light_thumb.png",
+      "full": "少女厨1-无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
