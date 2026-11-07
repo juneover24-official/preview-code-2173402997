@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1080025377",
-  "updated_at": "2026-10-30T20:22:47+00:00",
+  "updated_at": "2026-11-07T14:12:21+00:00",
   "skins": [
     {
       "name": "灰键讯号1",
@@ -100,6 +100,13 @@
       "thumb": "灰键讯号无背景2.bdi_py_26_light_thumb.png",
       "full": "灰键讯号无背景2.bdi_py_26_light_thumb.png",
       "file_id": "85fec47706b59065aeae1a82417ef1b7"
+    },
+    {
+      "name": "萤渡 脆脆",
+      "file": "萤渡脆脆.bdi",
+      "thumb": "萤渡脆脆.bdi_py_26_light_thumb.png",
+      "full": "萤渡脆脆.bdi_py_26_light_thumb.png",
+      "file_id": "df7152d59f80658cea76c9432bd67e53"
     }
   ]
 }
