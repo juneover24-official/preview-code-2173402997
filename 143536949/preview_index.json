@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
-  "updated_at": "2026-11-08T11:18:02+00:00",
+  "updated_at": "2026-11-08T11:22:28+00:00",
   "skins": [
     {
       "name": "离线天使2",
@@ -49,6 +49,13 @@
       "thumb": "树下的猫闷闷-无背景.bdi_py_26_light_thumb.png",
       "full": "树下的猫闷闷-无背景.bdi_py_26_light_thumb.png",
       "file_id": "4f5ab514a2017b3123028e51495b855a"
+    },
+    {
+      "name": "树下的猫 脆脆",
+      "file": "树下的猫脆脆-无背景.bdi",
+      "thumb": "树下的猫脆脆-无背景.bdi_py_26_light_thumb.png",
+      "full": "树下的猫脆脆-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "666cae0eab58afc12bd6c5575d84dd8e"
     }
   ]
 }
