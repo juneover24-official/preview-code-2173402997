@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1103943397",
-  "updated_at": "2026-10-31T03:57:41+00:00",
+  "updated_at": "2026-11-09T07:09:46+00:00",
   "skins": [
     {
       "name": "R4chel 1",
@@ -54,6 +54,12 @@
       "thumb": "少女厨2.bds_py_26_light_thumb.png",
       "full": "少女厨2.bds_py_26_light_thumb.png",
       "file_id": "5819a20eb896b554f227d27368f0f12b"
+    },
+    {
+      "name": "放学日记 闷闷",
+      "file": "放学日记闷闷.bdi",
+      "thumb": "放学日记闷闷.bdi_py_26_light_thumb.png",
+      "full": "放学日记闷闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
