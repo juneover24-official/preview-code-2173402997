@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
-  "updated_at": "2026-11-10T13:28:08+00:00",
+  "updated_at": "2026-11-10T13:28:32+00:00",
   "skins": [
     {
       "name": "离线天使2",
@@ -105,6 +105,13 @@
       "thumb": "你的泪水是天空的雨11-无背景.bdi_py_26_light_thumb.png",
       "full": "你的泪水是天空的雨11-无背景.bdi_py_26_light_thumb.png",
       "file_id": "fe91bc948e9b10c1075461b4bf86494c"
+    },
+    {
+      "name": "你的泪水是天空的雨2.2",
+      "file": "你的泪水是天空的雨22-无背景.bdi",
+      "thumb": "你的泪水是天空的雨22-无背景.bdi_py_26_light_thumb.png",
+      "full": "你的泪水是天空的雨22-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "0c625caeee38dba9486d1a9224943a3b"
     }
   ]
 }
