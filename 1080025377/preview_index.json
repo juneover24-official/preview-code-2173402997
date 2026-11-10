@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1080025377",
-  "updated_at": "2026-11-10T11:25:15+00:00",
+  "updated_at": "2026-11-10T11:25:23+00:00",
   "skins": [
     {
       "name": "灰键讯号1",
@@ -154,6 +154,12 @@
       "file": "菩提有雨落清池闷闷.bdi",
       "thumb": "菩提有雨落清池闷闷.bdi_py_26_light_thumb.png",
       "full": "菩提有雨落清池闷闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "菩提有雨落清池 脆脆",
+      "file": "菩提有雨落清池脆脆.bdi",
+      "thumb": "菩提有雨落清池脆脆.bdi_py_26_light_thumb.png",
+      "full": "菩提有雨落清池脆脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
