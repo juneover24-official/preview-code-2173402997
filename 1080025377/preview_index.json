@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1080025377",
-  "updated_at": "2026-11-13T08:19:10+00:00",
+  "updated_at": "2026-11-13T08:19:15+00:00",
   "skins": [
     {
       "name": "灰键讯号1",
@@ -199,6 +199,12 @@
       "file": "失眠幻症闷闷-无背景.bdi",
       "thumb": "失眠幻症闷闷-无背景.bdi_py_26_light_thumb.png",
       "full": "失眠幻症闷闷-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "失眠幻症 脆脆",
+      "file": "失眠幻症脆脆.bdi",
+      "thumb": "失眠幻症脆脆.bdi_py_26_light_thumb.png",
+      "full": "失眠幻症脆脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
