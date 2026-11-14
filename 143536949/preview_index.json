@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
-  "updated_at": "2026-11-10T13:28:32+00:00",
+  "updated_at": "2026-11-14T13:14:05+00:00",
   "skins": [
     {
       "name": "离线天使2",
@@ -112,6 +112,13 @@
       "thumb": "你的泪水是天空的雨22-无背景.bdi_py_26_light_thumb.png",
       "full": "你的泪水是天空的雨22-无背景.bdi_py_26_light_thumb.png",
       "file_id": "0c625caeee38dba9486d1a9224943a3b"
+    },
+    {
+      "name": "宅家日常 脆脆",
+      "file": "宅家日常脆脆-无背景.bdi",
+      "thumb": "宅家日常脆脆-无背景.bdi_py_26_light_thumb.png",
+      "full": "宅家日常脆脆-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "717f3445fe1bf0d3c5ec20e83a60b590"
     }
   ]
 }
