@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
-  "updated_at": "2026-11-14T13:15:00+00:00",
+  "updated_at": "2026-11-14T13:15:42+00:00",
   "skins": [
     {
       "name": "离线天使2",
@@ -133,6 +133,13 @@
       "thumb": "宅家日常脆脆.bdi_py_26_light_thumb.png",
       "full": "宅家日常脆脆.bdi_py_26_light_thumb.png",
       "file_id": "4b06388ba35de827203796a0a6c575b0"
+    },
+    {
+      "name": "宅家日常 闷闷",
+      "file": "宅家日常闷闷.bdi",
+      "thumb": "宅家日常闷闷.bdi_py_26_light_thumb.png",
+      "full": "宅家日常闷闷.bdi_py_26_light_thumb.png",
+      "file_id": "faa513e22f181a2ff620c66498f1033b"
     }
   ]
 }
