@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
-  "updated_at": "2026-11-14T13:15:42+00:00",
+  "updated_at": "2026-11-16T04:36:58+00:00",
   "skins": [
     {
       "name": "离线天使2",
@@ -140,6 +140,12 @@
       "thumb": "宅家日常闷闷.bdi_py_26_light_thumb.png",
       "full": "宅家日常闷闷.bdi_py_26_light_thumb.png",
       "file_id": "faa513e22f181a2ff620c66498f1033b"
+    },
+    {
+      "name": "Ethereal 脆脆",
+      "file": "Ethereal脆脆.bdi",
+      "thumb": "Ethereal脆脆.bdi_py_26_light_thumb.png",
+      "full": "Ethereal脆脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
