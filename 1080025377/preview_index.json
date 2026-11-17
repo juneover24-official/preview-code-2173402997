@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1080025377",
-  "updated_at": "2026-11-15T14:37:24+00:00",
+  "updated_at": "2026-11-17T02:14:51+00:00",
   "skins": [
     {
       "name": "灰键讯号1",
@@ -259,6 +259,13 @@
       "thumb": "Ethereal闷闷.bdi_py_26_light_thumb.png",
       "full": "Ethereal闷闷.bdi_py_26_light_thumb.png",
       "file_id": "833bcb9157af4bec5b4d568d55fc4e86"
+    },
+    {
+      "name": "Ethereal 脆脆",
+      "file": "新Ethereal脆脆.bdi",
+      "thumb": "新Ethereal脆脆.bdi_py_26_light_thumb.png",
+      "full": "新Ethereal脆脆.bdi_py_26_light_thumb.png",
+      "file_id": "881f70182a5977ae26918f8bcaca1128"
     }
   ]
 }
