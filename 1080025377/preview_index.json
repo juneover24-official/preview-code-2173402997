@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "1080025377",
-  "updated_at": "2026-11-20T14:22:16+00:00",
+  "updated_at": "2026-11-20T14:24:49+00:00",
   "skins": [
     {
       "name": "灰键讯号1",
@@ -300,6 +300,12 @@
       "thumb": "触雾见青山闷闷.bdi_py_26_light_thumb.png",
       "full": "触雾见青山闷闷.bdi_py_26_light_thumb.png",
       "file_id": "5c2e9409c2b165733dd67f4cd6e57455"
+    },
+    {
+      "name": "触雾见青山 脆脆",
+      "file": "触雾见青山脆脆-无背景.bdi",
+      "thumb": "触雾见青山脆脆-无背景.bdi_py_26_light_thumb.png",
+      "full": "触雾见青山脆脆-无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
