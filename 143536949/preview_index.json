@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
-  "updated_at": "2026-11-19T05:32:14+00:00",
+  "updated_at": "2026-11-23T13:39:45+00:00",
   "skins": [
     {
       "name": "离线天使2",
@@ -159,6 +159,13 @@
       "thumb": "要来块巧克力吗闷脆.bds_py_26_light_thumb.png",
       "full": "要来块巧克力吗闷脆.bds_py_26_light_thumb.png",
       "file_id": "06d6e8beac09d7d32554f34a67605045"
+    },
+    {
+      "name": "要来块巧克力吗 闷闷",
+      "file": "要来块巧克力吗闷闷.bds",
+      "thumb": "要来块巧克力吗闷闷.bds_py_26_light_thumb.png",
+      "full": "要来块巧克力吗闷闷.bds_py_26_light_thumb.png",
+      "file_id": "158d842092e33020a18703b1007081b4"
     }
   ]
 }
