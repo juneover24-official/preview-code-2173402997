@@ -1,7 +1,7 @@
 {
   "qq_number": "2173402997",
   "group_number": "143536949",
-  "updated_at": "2026-11-27T13:55:12+00:00",
+  "updated_at": "2026-11-27T13:59:27+00:00",
   "skins": [
     {
       "name": "离线天使2",
@@ -212,6 +212,13 @@
       "file": "失重医疗室闷闷-无背景.bdi",
       "thumb": "失重医疗室闷闷-无背景.bdi_py_26_light_thumb.png",
       "full": "失重医疗室闷闷-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "失重医疗室 脆脆",
+      "file": "失重医疗室脆脆.bdi",
+      "thumb": "失重医疗室脆脆.bdi_py_26_light_thumb.png",
+      "full": "失重医疗室脆脆.bdi_py_26_light_thumb.png",
+      "file_id": "bfca7dd6ddee8c40256c10421ff121c3"
     }
   ]
 }
